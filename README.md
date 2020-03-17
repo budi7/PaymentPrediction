@@ -1,10 +1,10 @@
 # PaymentPrediction
 payment prediction module for javascript
 
-How to use
+###How to use
 include & require prediction.js to your project
 
-call function 
+###call function 
 `
 prediction('Value -> Integer', 'BestResultOnly -> Boolean')
 `
